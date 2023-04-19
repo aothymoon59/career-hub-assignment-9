@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "company_logo": "https://i.ibb.co/Xy496h5/google-1-1-1.png",
+    "job_title": "Technical Database Engineer",
+    "company_name": "Google LLC",
+    "remote_or_onsite": "Onsite",
+    "location": "Seattle, WA",
+    "fulltime_or_parttime": "Full-time",
+    "salary": "Salary : 100K - 150K",
+    "job_description": "We are looking for a web developer to join our team and work on exciting new projects.",
+    "job_responsibility": "Responsibilities include developing and maintaining websites, collaborating with designers, and troubleshooting issues.",
+    "educational_requirements": "Bachelor's degree in Computer Science or a related field",
+    "experiences": "2+ years of experience in web development",
+    "contact_information": {
+      "phone": "+1-202-555-0163",
+      "email": "hr@company1.com"
+    }
+  },
+  {
+    "id": 2,
+    "company_logo": "https://i.ibb.co/kD473s8/netflix-4-1.png",
+    "job_title": "Senior Product Designer",
+    "company_name": "Netflix",
+    "remote_or_onsite": "Onsite",
+    "location": "Los Angeles",
+    "fulltime_or_parttime": "Full-time",
+    "salary": "Salary : 60k - 80k",
+    "job_description": "We are looking for a sales representative to join our team and help us grow our business.",
+    "job_responsibility": "Responsibilities include reaching out to potential customers, presenting our products or services, and negotiating contracts.",
+    "educational_requirements": "Bachelor's degree in Business Administration or a related field",
+    "experiences": "3+ years of experience in sales",
+    "contact_information": {
+      "phone": "+44 1632 960096",
+      "email": "hr@company2.com"
+    }
+  },
+  {
+    "id": 3,
+    "company_logo": "https://i.ibb.co/tZXvKZ9/tesla-9-1.png",
+    "job_title": "Software Engineer",
+    "company_name": "Tesla",
+    "remote_or_onsite": "Remote",
+    "location": "New York, NY",
+    "fulltime_or_parttime": "Full-time",
+    "salary": "Salary : 70k - 90k",
+    "job_description": "We are seeking an experienced accountant to join our team and handle financial operations.",
+    "job_responsibility": "Responsibilities include preparing financial statements, managing accounts payable and receivable, and ensuring compliance with regulations.",
+    "educational_requirements": "Bachelor's degree in Accounting or a related field",
+    "experiences": "5+ years of experience in accounting",
+    "contact_information": {
+      "phone": "+1-613-555-0146",
+      "email": "hr@company3.com"
+    }
+  },
+  {
+    "id": 4,
+    "company_logo": "https://i.ibb.co/Xy496h5/google-1-1-1.png",
+    "job_title": "Data Scientist",
+    "company_name": "Google LLC",
+    "remote_or_onsite": "Remote",
+    "location": "San Francisco",
+    "fulltime_or_parttime": "Full-time",
+    "salary": "Salary : 100K - 120K",
+    "job_description": "We are looking for a skilled software engineer to join our team.",
+    "job_responsibility": "Responsibilities include developing new features, maintaining existing code, and working closely with the product team.",
+    "educational_requirements": "Bachelor's degree in Computer Science or a related field",
+    "experiences": "5+ years of experience in software engineering",
+    "contact_information": {
+      "phone": "+61 1900 654 321",
+      "email": "hr@company4.com"
+    }
+  },
+  {
+    "id": 5,
+    "company_logo": "https://i.ibb.co/TKxnKJL/Group-10021.png",
+    "job_title": "Product Manager",
+    "company_name": "Airbnb",
+    "remote_or_onsite": "Onsite",
+    "location": "New York, NY",
+    "fulltime_or_parttime": "Full-time",
+    "salary": "Salary : 120K - 140K",
+    "job_description": "We are seeking a seasoned product manager to lead our product team.",
+    "job_responsibility": "Responsibilities include developing and executing product strategy, conducting market research, and collaborating with cross-functional teams.",
+    "educational_requirements": "Bachelor's degree in Business Administration or a related field",
+    "experiences": "7+ years of experience in product management",
+    "contact_information": {
+      "phone": "+353 20 916 2842",
+      "email": "hr@company5.com"
+    }
+  },
+  {
+    "id": 6,
+    "company_logo": "https://i.ibb.co/kD473s8/netflix-4-1.png",
+    "job_title": "Software Engineer",
+    "company_name": "Netflix",
+    "remote_or_onsite": "Remote",
+    "location": "Los Gatos, California",
+    "fulltime_or_parttime": "Full-time",
+    "salary": "Salary : 100K - 120K",
+    "job_description": "We are looking for an experienced data scientist to join our team.",
+    "job_responsibility": "Responsibilities include designing and implementing machine learning models, analyzing data, and working with cross-functional teams.",
+    "educational_requirements": "Master's or Ph.D. degree in a quantitative field",
+    "experiences": "5+ years of experience in data science",
+    "contact_information": {
+      "phone": "+36 55 097 300",
+      "email": "hr@company6.com"
+    }
+  }
+]

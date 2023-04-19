@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-family: 'Manrope', sans-serif;
+}
+
+.active {
+    @apply font-medium tracking-wide text-cyan-600
+}
+
+.default {
+    @apply font-medium tracking-wide text-[#757575]
+}
+
+.my-btn {
+    @apply font-extrabold text-white rounded-lg border-0 bg-gradient-to-r from-[#7E90FE] to-[#9873FF]
+}
+
+.my-gradient-text {
+    @apply bg-gradient-to-r from-[#7E90FE] to-[#9873FF] inline-block text-transparent bg-clip-text
+}
